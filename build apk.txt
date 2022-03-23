@@ -1,0 +1,8 @@
+Building an apk road map:
+
+1)expo build:android -t apk
+
+2)A pop up will come : 
+==>Select Generate by expo option
+
+=========================Done===============================
